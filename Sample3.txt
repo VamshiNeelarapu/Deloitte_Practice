@@ -5,6 +5,9 @@ Conflict example -> Remote changes
 
 Hello VS Code
 
+Merging Both (Without any change) in local
 
 
 Local Changes
+
+VS Code change in global
