@@ -1,1 +1,3 @@
 This is a sample to understand pull option.
+
+Conflict example -> Local changes
