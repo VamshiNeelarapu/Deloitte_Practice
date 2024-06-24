@@ -2,3 +2,5 @@ This is a sample to understand pull option.
 
 Conflict example -> Local changes
 Conflict example -> Remote changes
+
+Hello VS Code
