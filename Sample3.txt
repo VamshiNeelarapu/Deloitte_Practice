@@ -4,3 +4,7 @@ Conflict example -> Local changes
 Conflict example -> Remote changes
 
 Hello VS Code
+
+
+
+Local Changes
